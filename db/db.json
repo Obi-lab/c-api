@@ -1,0 +1,992 @@
+{
+  "users": [
+    {
+      "id": "1732198367654",
+      "name": "Emmanuel Amanga",
+      "email": "test@test.com",
+      "phone": "000",
+      "password": "$2b$10$/BXCFUVECQrdtxfa48K5ju05Vjf07WBP8nqNdY1v91.6o3ZIKp.Ae",
+      "createdAt": "2024-11-21T14:12:47.654Z"
+    },
+    {
+      "id": "1732219305827",
+      "name": "Qui deleniti molesti",
+      "email": "bubifolik@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$lDksMsdeDTFjz3K8FPMb2.3xIxfvnd0wc0u90IT0X0euC15FRGWuy",
+      "createdAt": "2024-11-21T20:01:45.827Z"
+    },
+    {
+      "id": "1732220987786",
+      "name": "Suscipit enim totam ",
+      "email": "vomatas@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$MVqmtA9g.VwHMjgU4oZfMuJHBRqGDWsy.ssMK6U4xHkbgcj3HK9na",
+      "createdAt": "2024-11-21T20:29:47.786Z"
+    },
+    {
+      "id": "1732225133056",
+      "name": "Ad et eaque odit ver",
+      "email": "xagiqy@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$Dm3Pel/u32rUPeii9i7OkuDq35LTFQaa24fD.WihXwQWqmwnffYze",
+      "createdAt": "2024-11-21T21:38:53.056Z"
+    },
+    {
+      "id": "1732360118584",
+      "name": "Necessitatibus iure ",
+      "email": "vece@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$PCQOpDxOitifC6aFBS95K.5xc53xZigbOU2ZHhqRFbOrsGwUETEOy",
+      "createdAt": "2024-11-23T11:08:38.584Z"
+    },
+    {
+      "id": "1732360226831",
+      "name": "Do quasi blanditiis ",
+      "email": "xyfycany@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$aT14GerTPLW7ommJMF.AgO9PxL0xfISgTaMCqmqKrd7eZ5lhgaG2W",
+      "createdAt": "2024-11-23T11:10:26.831Z"
+    },
+    {
+      "id": "1732360338929",
+      "name": "Aut debitis quisquam",
+      "email": "lilagelad@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$h/wmx6xmOjyGRPlIhuFn8ekgJLzlauhe0pEvVzUkOXeoByXp/OjnK",
+      "createdAt": "2024-11-23T11:12:18.929Z"
+    },
+    {
+      "id": "1732360449762",
+      "name": "Ut et exercitationem",
+      "email": "deguhe@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$WyT7gWgLPu8XfyGET.MK9eiD3zxHVMHCvkpDioS9mjypL372cKD5O",
+      "createdAt": "2024-11-23T11:14:09.762Z"
+    },
+    {
+      "id": "1732360531848",
+      "name": "Tempore sint volupt",
+      "email": "pyqic@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$7Zs9v3fkHJeKCeGBjBzfi.wStb5dV4Ours4NJLSvWbarClvPT9T8.",
+      "createdAt": "2024-11-23T11:15:31.848Z"
+    },
+    {
+      "id": "1732361125600",
+      "name": "Consectetur dolorib",
+      "email": "gywy@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$Xao6QhidZbgMes9O5mPgs.GNvZtZR4PdDfR.60.g66ERBp12Ia7uK",
+      "createdAt": "2024-11-23T11:25:25.600Z"
+    },
+    {
+      "id": "1732362228117",
+      "name": "Tempor voluptate nat",
+      "email": "zujut@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$.qyR1qKzX9VkOSDA5yvCee8lZ0JvedHew4S6VaHtr9Kiq84dUxMcy",
+      "createdAt": "2024-11-23T11:43:48.117Z"
+    },
+    {
+      "id": "1732382016384",
+      "name": "Quia excepturi excep",
+      "email": "giwo@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$odX2/64J1W6T3PbtPROL/uBX7FR3lzaMlN1zLFp2CRWUmC6Hsg34m",
+      "createdAt": "2024-11-23T17:13:36.384Z"
+    },
+    {
+      "id": "1732382065686",
+      "name": "Sint ratione volupta",
+      "email": "mymivy@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$oLUUyDWcYwvm0FkIjPe81eFzgClyQIEMBpG1gmfp/C/KiLxC56Ufm",
+      "createdAt": "2024-11-23T17:14:25.686Z"
+    },
+    {
+      "id": "1732382429076",
+      "name": "Reprehenderit recusa",
+      "email": "povywiru@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$06GZli.fuiRxI.KOAhwm7OS1zzLHAGD8kuY0TwFM.QIlifOs5pjYa",
+      "createdAt": "2024-11-23T17:20:29.076Z"
+    },
+    {
+      "id": "1732382480963",
+      "name": "Ex voluptatibus mole",
+      "email": "juhelilu@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$kqDck1Vwj8/ThaVgLrQAqO65vOXf8Wga7vGSi8DQQLvNG2IYdHgdu",
+      "createdAt": "2024-11-23T17:21:20.963Z"
+    },
+    {
+      "id": "1732382553704",
+      "name": "Voluptatem adipisci ",
+      "email": "cebewu@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$C./OTqBCtuz2MnJkTEnMBOkghM6Y9kmhKC0JZLdyqWzb.veDI6vk2",
+      "createdAt": "2024-11-23T17:22:33.704Z"
+    },
+    {
+      "id": "1732385881051",
+      "name": "Cupidatat ex sit nih",
+      "email": "zinoz@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$Oaqm1jVYOXLqJY/T6GV3.OnP8NDTZ7Im6.ySE55uXGL/QMZjo2NI.",
+      "createdAt": "2024-11-23T18:18:01.051Z"
+    },
+    {
+      "id": "1732396413630",
+      "name": "Ut et nemo voluptati",
+      "email": "dume@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$JzMVeT0yFjgA89elKlDRP.7le.JHFIOKJJhR8WWbkeESo7YEnWlG.",
+      "createdAt": "2024-11-23T21:13:33.630Z"
+    },
+    {
+      "id": "1732476454801",
+      "name": "Fugiat ea sapiente d",
+      "email": "rety@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$Bdrb0mEM4HUmAso7SXZppectBVZzLnHH3331S7UwyJwi5pjP1TvMm",
+      "createdAt": "2024-11-24T19:27:34.801Z"
+    },
+    {
+      "id": "1732620253808",
+      "name": "Sit corrupti volup",
+      "email": "daqar@mailinator.com",
+      "phone": null,
+      "password": "$2b$10$sXoy/Z18.GcAbwYMwQuGC.ip4IhKDHxFDtn60Vj0OuZ2xGaPKRrJy",
+      "createdAt": "2024-11-26T11:24:13.808Z"
+    }
+  ],
+  "communities": [
+    {
+      "id": "1732219440610",
+      "name": "Waumini Community ",
+      "description": "famous is not pride",
+      "members": [
+        "1"
+      ],
+      "rating": 0,
+      "memberCount": 1,
+      "createdAt": "2024-11-21T20:04:00.610Z",
+      "rules": [],
+      "owner": "1"
+    },
+    {
+      "id": "1732219443490",
+      "name": "Waumini Community ",
+      "description": "famous is not pride",
+      "members": [
+        "1"
+      ],
+      "rating": 0,
+      "memberCount": 1,
+      "createdAt": "2024-11-21T20:04:03.490Z",
+      "rules": [],
+      "owner": "1"
+    },
+    {
+      "id": "1732222542927",
+      "name": "dsfs",
+      "description": "sdfsf",
+      "members": [],
+      "rating": 0,
+      "memberCount": 0,
+      "createdAt": "2024-11-21T20:55:42.927Z",
+      "rules": [],
+      "owner": "1"
+    },
+    {
+      "id": "1732222636713",
+      "name": "game",
+      "description": "game over \n",
+      "members": [
+        "1"
+      ],
+      "rating": 0,
+      "memberCount": 1,
+      "createdAt": "2024-11-21T20:57:16.713Z",
+      "rules": [],
+      "owner": "1"
+    },
+    {
+      "id": "1732223413833",
+      "name": "fdsdf",
+      "description": "sdfsf",
+      "members": [],
+      "rating": 0,
+      "memberCount": 0,
+      "createdAt": "2024-11-21T21:10:13.833Z",
+      "rules": [],
+      "owner": "1"
+    },
+    {
+      "id": "1732225328050",
+      "name": "NEw Community ",
+      "description": "Being new is good\n",
+      "members": [],
+      "rating": 0,
+      "memberCount": 0,
+      "createdAt": "2024-11-21T21:42:08.050Z",
+      "rules": [],
+      "owner": "1"
+    },
+    {
+      "id": "1732361035683",
+      "name": "new c",
+      "description": "community",
+      "members": [],
+      "rating": 0,
+      "memberCount": 0,
+      "createdAt": "2024-11-23T11:23:55.683Z",
+      "rules": [],
+      "owner": "1"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1732219470377",
+      "communityId": "1732219440610",
+      "content": "sklsdf",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T20:04:30.377Z"
+    },
+    {
+      "id": "1732219471397",
+      "communityId": "1732219440610",
+      "content": "slkflskdf",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T20:04:31.397Z"
+    },
+    {
+      "id": "1732219472458",
+      "communityId": "1732219440610",
+      "content": "sdfksf",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T20:04:32.458Z"
+    },
+    {
+      "id": "1732219473524",
+      "communityId": "1732219440610",
+      "content": "sdjflsf",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T20:04:33.524Z"
+    },
+    {
+      "id": "1732225297343",
+      "communityId": "1732219440610",
+      "content": "sfshfks",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T21:41:37.343Z"
+    },
+    {
+      "id": "1732225298895",
+      "communityId": "1732219440610",
+      "content": "skjslfsd",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T21:41:38.895Z"
+    },
+    {
+      "id": "1732225299964",
+      "communityId": "1732219440610",
+      "content": "sjfsdlf",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T21:41:39.964Z"
+    },
+    {
+      "id": "1732225336842",
+      "communityId": "1732225328050",
+      "content": "New new ",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T21:42:16.842Z"
+    },
+    {
+      "id": "1732225337891",
+      "communityId": "1732225328050",
+      "content": "new ",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T21:42:17.891Z"
+    },
+    {
+      "id": "1732225340036",
+      "communityId": "1732225328050",
+      "content": "is ",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T21:42:20.036Z"
+    },
+    {
+      "id": "1732225343420",
+      "communityId": "1732225328050",
+      "content": "bnew",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-21T21:42:23.420Z"
+    },
+    {
+      "id": "1732361020971",
+      "communityId": "1732219440610",
+      "content": "sfkas",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-23T11:23:40.971Z"
+    },
+    {
+      "id": "1732361021810",
+      "communityId": "1732219440610",
+      "content": "slfjsdsf",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-23T11:23:41.810Z"
+    },
+    {
+      "id": "1732361040993",
+      "communityId": "1732361035683",
+      "content": "sfjsdlfs",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-23T11:24:00.993Z"
+    },
+    {
+      "id": "1732361044210",
+      "communityId": "1732361035683",
+      "content": "fslfjsd",
+      "userId": "1",
+      "user_name": "User",
+      "timestamp": "2024-11-23T11:24:04.210Z"
+    }
+  ],
+  "topics": [
+    {
+      "id": "t1",
+      "title": "Financial Literacy Basics",
+      "description": "Learn fundamental concepts of personal finance, budgeting, and money management",
+      "creatorId": "admin",
+      "rating": 4.8,
+      "difficulty": "beginner",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "totalQuizzes": 2
+    },
+    {
+      "id": "t2",
+      "title": "Credit Score Management",
+      "description": "Master the essentials of credit scores, reports, and improvement strategies",
+      "creatorId": "admin",
+      "rating": 4.9,
+      "difficulty": "intermediate",
+      "createdAt": "2024-01-02T00:00:00.000Z",
+      "totalQuizzes": 3
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "topicId": "t1",
+      "title": "Budgeting Fundamentals",
+      "description": "Test your knowledge of basic budgeting concepts",
+      "instructions": "This quiz will test your understanding of basic budgeting principles. Read each question carefully and select the best answer.",
+      "estimatedTime": 15,
+      "difficulty": "beginner",
+      "points": 100,
+      "maxAttempts": 3,
+      "timeLimit": 20,
+      "passingScore": 70,
+      "showResults": true,
+      "cooldownPeriod": 24,
+      "questions": [
+        {
+          "id": "q1_1",
+          "question": "What is the 50/30/20 budgeting rule?",
+          "options": [
+            {
+              "id": "a",
+              "text": "50% needs, 30% wants, 20% savings"
+            },
+            {
+              "id": "b",
+              "text": "50% savings, 30% needs, 20% wants"
+            },
+            {
+              "id": "c",
+              "text": "50% wants, 30% savings, 20% needs"
+            },
+            {
+              "id": "d",
+              "text": "50% needs, 30% savings, 20% wants"
+            }
+          ],
+          "correctAnswer": "a",
+          "explanation": "The 50/30/20 rule suggests allocating 50% of income to needs, 30% to wants, and 20% to savings"
+        },
+        {
+          "id": "q1_2",
+          "question": "What is an emergency fund?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Money for vacation"
+            },
+            {
+              "id": "b",
+              "text": "3-6 months of living expenses saved"
+            },
+            {
+              "id": "c",
+              "text": "Investment in stocks"
+            },
+            {
+              "id": "d",
+              "text": "Monthly grocery budget"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "An emergency fund typically consists of 3-6 months of living expenses saved for unexpected situations"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "topicId": "t2",
+      "title": "Understanding Credit Scores",
+      "description": "Learn what affects your credit score",
+      "instructions": "Complete this quiz to test your knowledge about credit scores and factors that influence them. Take your time to consider each answer carefully.",
+      "estimatedTime": 20,
+      "difficulty": "intermediate",
+      "points": 150,
+      "maxAttempts": 2,
+      "timeLimit": 30,
+      "passingScore": 80,
+      "showResults": true,
+      "cooldownPeriod": 48,
+      "questions": [
+        {
+          "id": "q2_1",
+          "question": "What is a good credit score range?",
+          "options": [
+            {
+              "id": "a",
+              "text": "300-579"
+            },
+            {
+              "id": "b",
+              "text": "580-669"
+            },
+            {
+              "id": "c",
+              "text": "670-739"
+            },
+            {
+              "id": "d",
+              "text": "740-850"
+            }
+          ],
+          "correctAnswer": "d",
+          "explanation": "A credit score between 740-850 is considered very good to excellent"
+        },
+        {
+          "id": "q2_2",
+          "question": "What percentage of your credit score is payment history?",
+          "options": [
+            {
+              "id": "a",
+              "text": "15%"
+            },
+            {
+              "id": "b",
+              "text": "25%"
+            },
+            {
+              "id": "c",
+              "text": "35%"
+            },
+            {
+              "id": "d",
+              "text": "45%"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "Payment history accounts for 35% of your FICO credit score"
+        }
+      ]
+    }
+  ],
+  "userProgress": [
+    {
+      "userId": "1732198367654",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T19:00:00.000Z",
+      "completedAt": "2024-11-21T19:15:00.000Z",
+      "score": 100,
+      "timeSpent": 15,
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732198367654",
+      "quizId": "q2",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T20:00:00.000Z",
+      "completedAt": "2024-11-21T20:25:00.000Z",
+      "score": 75,
+      "timeSpent": 25,
+      "answers": {
+        "q2_1": "d",
+        "q2_2": "b"
+      }
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T19:44:08.426Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q1",
+      "attemptNumber": 2,
+      "startedAt": "2024-11-21T19:49:05.959Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q1",
+      "attemptNumber": 3,
+      "startedAt": "2024-11-21T19:51:01.380Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q1",
+      "attemptNumber": 4,
+      "startedAt": "2024-11-21T19:52:23.742Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q1",
+      "attemptNumber": 5,
+      "startedAt": "2024-11-21T19:56:50.560Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q1",
+      "score": 50,
+      "completedAt": "2024-11-21T19:56:56.031Z",
+      "answers": {
+        "q1_1": "b",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q2",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T19:57:04.812Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q2",
+      "score": 0,
+      "completedAt": "2024-11-21T19:57:08.583Z",
+      "answers": {
+        "q2_1": "b",
+        "q2_2": "a"
+      }
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q2",
+      "attemptNumber": 3,
+      "startedAt": "2024-11-21T19:57:35.515Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q2",
+      "score": 100,
+      "completedAt": "2024-11-21T19:57:38.770Z",
+      "answers": {
+        "q2_1": "d",
+        "q2_2": "c"
+      }
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q2",
+      "attemptNumber": 5,
+      "startedAt": "2024-11-21T19:57:58.707Z"
+    },
+    {
+      "userId": "1732198967809",
+      "quizId": "q2",
+      "score": 0,
+      "completedAt": "2024-11-21T19:58:01.580Z",
+      "answers": {
+        "q2_1": "a",
+        "q2_2": "b"
+      }
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T20:03:19.254Z"
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-21T20:03:24.373Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q2",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T20:03:32.524Z"
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q2",
+      "score": 0,
+      "completedAt": "2024-11-21T20:03:36.123Z",
+      "answers": {
+        "q2_1": "a",
+        "q2_2": "b"
+      }
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "attemptNumber": 3,
+      "startedAt": "2024-11-21T20:04:42.338Z"
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-21T20:04:45.761Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "attemptNumber": 5,
+      "startedAt": "2024-11-21T20:05:17.004Z"
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "score": 50,
+      "completedAt": "2024-11-21T20:05:20.951Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "c"
+      }
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "attemptNumber": 7,
+      "startedAt": "2024-11-21T20:05:26.630Z"
+    },
+    {
+      "userId": "1732219305827",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-21T20:05:30.411Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T20:58:20.178Z"
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "score": 50,
+      "completedAt": "2024-11-21T20:58:24.106Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "a"
+      }
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "attemptNumber": 3,
+      "startedAt": "2024-11-21T20:58:34.672Z"
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-21T20:58:42.291Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "attemptNumber": 5,
+      "startedAt": "2024-11-21T20:58:46.894Z"
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-21T20:58:53.395Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "attemptNumber": 7,
+      "startedAt": "2024-11-21T21:37:02.604Z"
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-21T21:37:06.895Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q2",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T21:37:12.928Z"
+    },
+    {
+      "userId": "1732220987786",
+      "quizId": "q2",
+      "score": 50,
+      "completedAt": "2024-11-21T21:37:16.241Z",
+      "answers": {
+        "q2_1": "a",
+        "q2_2": "c"
+      }
+    },
+    {
+      "userId": "1732225133056",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T21:40:34.457Z"
+    },
+    {
+      "userId": "1732225133056",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-21T21:40:38.712Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732225133056",
+      "quizId": "q2",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-21T21:40:55.845Z"
+    },
+    {
+      "userId": "1732225133056",
+      "quizId": "q2",
+      "score": 0,
+      "completedAt": "2024-11-21T21:40:58.660Z",
+      "answers": {
+        "q2_1": "b",
+        "q2_2": "a"
+      }
+    },
+    {
+      "userId": "1732360531848",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-23T11:19:59.273Z"
+    },
+    {
+      "userId": "1732360531848",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-23T11:20:05.444Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732361125600",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-23T11:26:17.705Z"
+    },
+    {
+      "userId": "1732382016384",
+      "quizId": "q1",
+      "attemptNumber": 1,
+      "startedAt": "2024-11-26T07:29:34.959Z"
+    },
+    {
+      "userId": "1732382016384",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-26T07:29:38.858Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    },
+    {
+      "userId": "1732382016384",
+      "quizId": "q1",
+      "attemptNumber": 3,
+      "startedAt": "2024-11-26T11:23:25.184Z"
+    },
+    {
+      "userId": "1732382016384",
+      "quizId": "q1",
+      "score": 100,
+      "completedAt": "2024-11-26T11:23:28.444Z",
+      "answers": {
+        "q1_1": "a",
+        "q1_2": "b"
+      }
+    }
+  ],
+  "creditData": [
+    {
+      "id": "1732396342599",
+      "userId": "1732385881051",
+      "source": "mpesa",
+      "fileName": "mpesa.csv",
+      "fileSize": 341224,
+      "filePath": "/home/devcoder/projects/CreditBoost/api/uploads/file-1732396342585-292212050.csv",
+      "uploadedAt": "2024-11-23T21:12:22.599Z",
+      "status": "completed",
+      "processingStep": "complete",
+      "error": null,
+      "data": {
+        "fileName": "mpesa.csv",
+        "uploadedAt": "2024-11-23T21:12:22.599Z",
+        "fileSize": 341224
+      }
+    },
+    {
+      "id": "1732396471887",
+      "userId": "1732396413630",
+      "source": "mpesa",
+      "fileName": "mpesa.csv",
+      "fileSize": 341224,
+      "filePath": "/home/devcoder/projects/CreditBoost/api/uploads/file-1732396471865-161516128.csv",
+      "uploadedAt": "2024-11-23T21:14:31.887Z",
+      "status": "completed",
+      "processingStep": "complete",
+      "error": null,
+      "data": {
+        "fileName": "mpesa.csv",
+        "uploadedAt": "2024-11-23T21:14:31.887Z",
+        "fileSize": 341224
+      }
+    },
+    {
+      "id": "1732396818544",
+      "userId": "1732396413630",
+      "source": "mpesa",
+      "fileName": "mpesa.csv",
+      "fileSize": 341224,
+      "filePath": "/home/devcoder/projects/CreditBoost/api/uploads/file-1732396818523-670522902.csv",
+      "uploadedAt": "2024-11-23T21:20:18.544Z",
+      "status": "completed",
+      "processingStep": "complete",
+      "error": null,
+      "data": {
+        "fileName": "mpesa.csv",
+        "uploadedAt": "2024-11-23T21:20:18.544Z",
+        "fileSize": 341224
+      }
+    },
+    {
+      "id": "1732476481922",
+      "userId": "1732476454801",
+      "source": "mpesa",
+      "fileName": "mpesa.csv",
+      "fileSize": 341224,
+      "filePath": "/home/devcoder/projects/CreditBoost/api/uploads/file-1732476481906-165908472.csv",
+      "uploadedAt": "2024-11-24T19:28:01.922Z",
+      "status": "completed",
+      "processingStep": "complete",
+      "error": null,
+      "data": {
+        "fileName": "mpesa.csv",
+        "uploadedAt": "2024-11-24T19:28:01.922Z",
+        "fileSize": 341224
+      }
+    },
+    {
+      "id": "1732606038470",
+      "userId": "1732382016384",
+      "source": "mpesa",
+      "fileName": "mpesa.csv",
+      "fileSize": 341224,
+      "filePath": "/home/devcoder/projects/CreditBoost/api/uploads/file-1732606038457-468310705.csv",
+      "uploadedAt": "2024-11-26T07:27:18.470Z",
+      "status": "completed",
+      "processingStep": "complete",
+      "error": null,
+      "data": {
+        "fileName": "mpesa.csv",
+        "uploadedAt": "2024-11-26T07:27:18.470Z",
+        "fileSize": 341224
+      }
+    },
+    {
+      "id": "1732620105066",
+      "userId": "1732382016384",
+      "source": "mpesa",
+      "fileName": "mpesa.csv",
+      "fileSize": 341224,
+      "filePath": "/home/devcoder/projects/CreditBoost/api/uploads/file-1732620105058-59942364.csv",
+      "uploadedAt": "2024-11-26T11:21:45.066Z",
+      "status": "completed",
+      "processingStep": "complete",
+      "error": null,
+      "data": {
+        "fileName": "mpesa.csv",
+        "uploadedAt": "2024-11-26T11:21:45.066Z",
+        "fileSize": 341224
+      }
+    }
+  ],
+  "mpesaTransactions": []
+}
